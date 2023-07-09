@@ -57,7 +57,9 @@ const DestinationPage = () => {
             <span className="highlight">Ticket Price: </span>
             <p className="content">{ticketPrice}</p>
           </div>
-          <a href={website}>Website</a>
+          <a href={website} target="_blank">
+            Website
+          </a>
         </div>
       </div>
     </div>
