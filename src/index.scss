@@ -11,4 +11,11 @@ html {
 body {
   font-family: 'Inter', sans-serif;
   font-size: 1.6rem;
+  background-color: #1b1f24;
+  color: #fff;
+}
+
+#root {
+  max-width: 1024px;
+  margin: 0 auto;
 }
